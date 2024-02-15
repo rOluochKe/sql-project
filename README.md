@@ -1,4 +1,4 @@
-## SQL Tutorial
+## SQL Project
 
 This project consist of Testing the domain of SQL queries by requesting them to retrieve and organize different pieces of data from a table from SQL Zoo.
 
